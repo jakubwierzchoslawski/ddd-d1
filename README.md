@@ -2,4 +2,4 @@
 
 disc1: domain encapsulation
 
-some code for discussion
+some slides + some code for discussion
